@@ -1,0 +1,191 @@
+.header{
+	background-color:orange;
+	border: 2px solid blue;
+	position:;
+}
+#page{
+	background-color: rgb(139, 62, 32);
+}
+.header ul li{
+       margin:25px;
+       font-size: 25px;
+}
+.navbar-brand{
+	font-size: 45px;
+	font-family: 'Monoton', cursive;
+}
+.navbar-brand i{
+	font-size: 45px;
+	color: white;
+	margin-left:-13px;
+}
+.nav-link{
+	font-size: 25px;
+	margin-left: 15px;
+	font-family: 'Bowlby One SC', cursive;
+	
+}
+.search-btn{
+	margin-left: -40px;
+	background: transparent;
+	border-radius: 15px;
+}
+.form-field{
+	display: inline;
+}
+.search-form{
+	margin-left:-29px;
+}
+.search-field{
+	width: 220px;
+	height: 32px;
+	border-radius: 12px;
+
+}
+.kk{
+	margin-left: 5px;
+}
+.sy{
+	background-color: lightgray;
+}
+.ky a{
+ font-family: 'Bowlby One SC', cursive;
+ font-size: 90px;
+ margin-left:100px;
+}
+.pb-3 i{
+	margin-left: 150px;
+}
+.sk{
+   padding: 25px;
+  
+}
+.kkk{
+	font-family: 'Bowlby One SC', cursive;
+	color: blue;
+	font-size: 34px;
+}
+.x, .y, .z, .l{
+	float: left;
+}
+.x{
+	width: 250px;
+	height: 250px;
+	border: none;
+	margin-top: 12px;
+	
+}
+.y{
+  width: 250px;
+  height: 250px;
+  border: none;
+  margin-left: 12px;
+  margin-top: 12px;
+	
+}
+.z{
+	width: 250px;
+	height: 250px;
+	 border: none;
+	  margin-top: 12px;
+	
+}
+.l{
+	width: 250px;
+	height: 250px;
+	 border: none;
+     margin-left: 12px;
+     margin-top: 12px;
+	
+}
+.skn{
+	background-color: lightgray;
+}
+.bsy{
+  background-color: lightgray;
+  padding: 20px;
+  margin-bottom: 9px;
+}
+.bc{
+	margin-top: 25px;
+	margin-bottom: 18px;
+   text-align: center;
+   color: blue;
+   	font-family: 'Bowlby One SC', cursive;
+}
+.cc{
+	margin-top: 9px;
+	background-color: lightblue;
+}
+.kake{
+	background-color: orange;
+	border: 1px solid blue;
+}
+.btn{
+	color: white;
+	background-color:darkgray;
+}
+.skk{
+	margin-top: 18px;
+	background-color:;
+}
+.skc{
+	margin-top: 18px;
+	background-color: ;
+}
+.xx{
+	border: 18px solid gray;
+	border-radius: 12px;
+}
+.yxc{
+	margin-top: 60px;
+}
+.ycx{
+	margin-top: 36px;
+	margin-left: px;
+}
+.yxcc{
+	margin-top:70px;
+	margin-left: px;
+
+}
+.wc{
+margin-left: 65px;
+}
+.ycxb{
+	margin-top: 40px;
+	background-color: blue;
+}
+.wcc{
+margin-left: 30px;
+}
+.breadcrumb-item tttc{
+	position: fixed;
+}
+.breadcrumb li a{
+	display: inline;
+
+}
+.card-img-top{
+	margin-top: 50px;
+}
+.home{
+	float: left;
+	color: blue;
+	margin-top: -8px;
+	background-color: blue;
+}
+
+.sdd{
+	margin-bottom: 25px;
+}
+.footer{
+	width: 1350px;
+	height: 250px;
+	 border: none;
+	  margin-top: 12px;
+	  background-color: blanchedalmond;
+	}
+#date{
+	position: fixed;
+}

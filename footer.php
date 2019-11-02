@@ -1,0 +1,1 @@
+<?php echo readfile("footer.html");?>
